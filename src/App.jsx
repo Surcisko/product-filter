@@ -6,7 +6,7 @@ import { useState } from "react";
 // import "./index.css";
 
 //Database
-import { Data } from "./db/data";
+import { Data } from "./db/Data";
 // import { Category } from "./components/Sidebar/Category/Category";
 import { Card } from "./components/Card";
 
